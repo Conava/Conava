@@ -19,7 +19,7 @@
 ### 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,java,spring,ts,react,nextjs,tailwind,py,qt,bash,linux,arch,docker,git,idea,neovim&perline=9" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=go,java,spring,ts,react,nextjs,py,bash,linux,arch,docker,git,idea&perline=13" alt="Tech stack" />
 </p>
 
 ### 📊 Stats
