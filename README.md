@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Marlon%20Kranz&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Cloud%20Software%20Engineer%20%C2%B7%20CS%20Student%20%C2%B7%20Hamburg&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Marlon Kranz" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Marlon%20Kranz&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Cloud%20Software%20Engineer%20and%20CS%20Master%27s%20Student&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Marlon Kranz" />
 
 <p align="center">
   <a href="https://marlonkranz.com">
@@ -8,8 +8,12 @@
 
 ### 🔭 Currently working on
 
-- **dux**: a Linux desktop shell with plugins, media player and casting (Go, QML)
-- **claude-devline**: a development-lifecycle plugin for Claude Code
+- **[dux](https://github.com/duxlabs-dev)**: a Wayland desktop shell built with Quickshell and Go ([dux-shell](https://github.com/duxlabs-dev/dux-shell))
+  - [dux-player](https://github.com/Conava/dux-player): standalone music player for the shell
+  - [dux-plugins](https://github.com/Conava/dux-plugins): plugins for the shell
+  - [dux-cast](https://github.com/Conava/dux-cast): cast helper for dux-player and the cast plugin
+- **[BPMNscript](https://github.com/BPMNscript/bpmnscript)**: write executable business processes as text and compile them to BPMN 2.0
+- **[claude-devline](https://github.com/Conava/claude-devline)**: a development-lifecycle plugin for Claude Code
 - **[marlonkranz.com](https://marlonkranz.com)**: my portfolio (Next.js)
 
 ### 🛠️ Tech stack
